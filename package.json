@@ -1,0 +1,20 @@
+{
+  "name": "Kiota-cha-mama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Est-1y/Kiota-cha-mama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Est-1y/Kiota-cha-mama/issues"
+  },
+  "homepage": "https://github.com/Est-1y/Kiota-cha-mama#readme"
+}
